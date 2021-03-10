@@ -1,2 +1,2 @@
 # MongoDBProgram
-A program that implements a MongoDB Repository
+A program that connects to a MongoDB Repository
